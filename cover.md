@@ -1,4 +1,4 @@
-# Pedict Wine Quality notebook
+# Predict Wine Quality notebook
 
 ![Wine](_images/wine-image-0.jpg)
 
