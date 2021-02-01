@@ -1,7 +1,7 @@
 {
   "name": "Predict Wine Quality Notebook",
   "description": "Notebook to Predict Wine Quality",
-  "logo": "_images/notebook.png",
+  "logo": "_images/notebook-1.png",
   "has_supporting_content": false,
   "de_catalog_id": "predict_wine_quality_notebook",
   "source_repo": "https://github.com/i-data-explorer/predict-wine-quality-notebook.git",
